@@ -1,0 +1,26 @@
+[1.300s] Invoking command in '/home/egoist/turtle_ws/src/turtle_circle': PYTHONPATH=/home/egoist/turtle_ws/src/build/turtle_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/egoist/turtle_ws/src/install/turtle_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtle_circle build --build-base /home/egoist/turtle_ws/src/build/turtle_circle/build install --record /home/egoist/turtle_ws/src/build/turtle_circle/install.log --single-version-externally-managed install_data
+[1.641s] running egg_info
+[1.643s] writing ../build/turtle_circle/turtle_circle.egg-info/PKG-INFO
+[1.644s] writing dependency_links to ../build/turtle_circle/turtle_circle.egg-info/dependency_links.txt
+[1.644s] writing entry points to ../build/turtle_circle/turtle_circle.egg-info/entry_points.txt
+[1.644s] writing requirements to ../build/turtle_circle/turtle_circle.egg-info/requires.txt
+[1.644s] writing top-level names to ../build/turtle_circle/turtle_circle.egg-info/top_level.txt
+[1.647s] reading manifest file '../build/turtle_circle/turtle_circle.egg-info/SOURCES.txt'
+[1.649s] writing manifest file '../build/turtle_circle/turtle_circle.egg-info/SOURCES.txt'
+[1.649s] running build
+[1.649s] running build_py
+[1.650s] copying turtle_circle/turtle_circle_publisher.py -> /home/egoist/turtle_ws/src/build/turtle_circle/build/lib/turtle_circle
+[1.650s] running install
+[1.650s] running install_lib
+[1.651s] copying /home/egoist/turtle_ws/src/build/turtle_circle/build/lib/turtle_circle/turtle_circle_publisher.py -> /home/egoist/turtle_ws/src/install/turtle_circle/lib/python3.10/site-packages/turtle_circle
+[1.652s] byte-compiling /home/egoist/turtle_ws/src/install/turtle_circle/lib/python3.10/site-packages/turtle_circle/turtle_circle_publisher.py to turtle_circle_publisher.cpython-310.pyc
+[1.654s] running install_data
+[1.655s] running install_egg_info
+[1.659s] removing '/home/egoist/turtle_ws/src/install/turtle_circle/lib/python3.10/site-packages/turtle_circle-0.0.0-py3.10.egg-info' (and everything under it)
+[1.661s] Copying ../build/turtle_circle/turtle_circle.egg-info to /home/egoist/turtle_ws/src/install/turtle_circle/lib/python3.10/site-packages/turtle_circle-0.0.0-py3.10.egg-info
+[1.663s] running install_scripts
+[1.694s] Installing move_circle_client script to /home/egoist/turtle_ws/src/install/turtle_circle/lib/turtle_circle
+[1.694s] Installing move_circle_server script to /home/egoist/turtle_ws/src/install/turtle_circle/lib/turtle_circle
+[1.694s] Installing turtle_circle_publisher script to /home/egoist/turtle_ws/src/install/turtle_circle/lib/turtle_circle
+[1.695s] writing list of installed files to '/home/egoist/turtle_ws/src/build/turtle_circle/install.log'
+[1.725s] Invoked command in '/home/egoist/turtle_ws/src/turtle_circle' returned '0': PYTHONPATH=/home/egoist/turtle_ws/src/build/turtle_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/egoist/turtle_ws/src/install/turtle_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtle_circle build --build-base /home/egoist/turtle_ws/src/build/turtle_circle/build install --record /home/egoist/turtle_ws/src/build/turtle_circle/install.log --single-version-externally-managed install_data

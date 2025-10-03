@@ -1,0 +1,5 @@
+[console_scripts]
+move_circle_client = turtle_circle.move_circle_client:main
+move_circle_server = turtle_circle.move_circle_server:main
+turtle_circle_publisher = turtle_circle.turtle_circle_publisher:main
+
