@@ -1,0 +1,2 @@
+The turtle_circle_publisher code has targets List which will be excuted line by line by index, throguh call backs, the move function takes target as the input and if the target is circle it will trigger the cirlce client and i added a non blocking call
+where in even if the circle call is in progress the next pose message will reach reach the pose callback to excute the next pose command. The radius is set to 2.7 becuse it was hitting the wall.
